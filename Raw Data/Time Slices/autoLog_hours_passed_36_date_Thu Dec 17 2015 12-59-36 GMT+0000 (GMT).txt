@@ -1,0 +1,380 @@
+E06000001	Hartlepool	3	299
+E06000002	Middlesbrough	4	368
+E06000003	Redcar and Cleveland	1	60
+E06000004	Stockton-on-Tees	0	65
+E06000005	Darlington	41	325
+E06000006	Halton	6	313
+E06000007	Warrington	4	797
+E06000008	Blackburn with Darwen	20	438
+E06000009	Blackpool	8	1008
+E06000010	Kingston upon Hull, City of	0	1
+E06000011	East Riding of Yorkshire	7	450
+E06000012	North East Lincolnshire	73	442
+E06000013	North Lincolnshire	3	393
+E06000014	York	17	1429
+E06000015	Derby	22	1196
+E06000016	Leicester	17	1936
+E06000017	Rutland	2	149
+E06000018	Nottingham	21	2692
+E06000019	Herefordshire, County of	0	0
+E06000020	Telford and Wrekin	6	462
+E06000021	Stoke-on-Trent	35	129
+E06000022	Bath and North East Somerset	12	1190
+E06000023	Bristol, City of	0	3
+E06000024	North Somerset	23	165
+E06000025	South Gloucestershire	73	3692
+E06000026	Plymouth	8	1214
+E06000027	Torbay	30	382
+E06000028	Bournemouth	7	1112
+E06000029	Poole	7	298
+E06000030	Swindon	15	658
+E06000031	Peterborough	45	871
+E06000032	Luton	6	560
+E06000033	Southend-on-Sea	0	146
+E06000034	Thurrock	1	106
+E06000035	Medway	0	244
+E06000036	Bracknell Forest	0	166
+E06000037	West Berkshire	1	269
+E06000038	Reading	4	1250
+E06000039	Slough	18	249
+E06000040	Windsor and Maidenhead	1	108
+E06000041	Wokingham	0	156
+E06000042	Milton Keynes	1	130
+E06000043	Brighton and Hove	15	2821
+E06000044	Portsmouth	9	1032
+E06000045	Southampton	12	1739
+E06000046	Isle of Wight	1	92
+E06000047	County Durham	0	34
+E06000049	Cheshire East	2	460
+E06000050	Cheshire West and Chester	9	768
+E06000051	Shropshire	6	521
+E06000052	Cornwall	38	743
+E06000053	Isles of Scilly	1	118
+E06000054	Wiltshire	6	309
+E06000055	Bedford	4	452
+E06000056	Central Bedfordshire	4	140
+E06000057	Northumberland	1	110
+E07000004	Aylesbury Vale	4	236
+E07000005	Chiltern	7	63
+E07000006	South Bucks	7	156
+E07000007	Wycombe	0	75
+E07000008	Cambridge	9	1532
+E07000009	East Cambridgeshire	1	148
+E07000010	Fenland	3	128
+E07000011	Huntingdonshire	1	97
+E07000012	South Cambridgeshire	0	15
+E07000026	Allerdale	1	142
+E07000027	Barrow-in-Furness	0	72
+E07000028	Carlisle	6	662
+E07000029	Copeland	1	107
+E07000030	Eden	1	69
+E07000031	South Lakeland	0	195
+E07000032	Amber Valley	1	56
+E07000033	Bolsover	0	12
+E07000034	Chesterfield	0	48
+E07000035	Derbyshire Dales	0	82
+E07000036	Erewash	0	31
+E07000037	High Peak	0	102
+E07000038	North East Derbyshire	6	433
+E07000039	South Derbyshire	2	76
+E07000040	East Devon	0	138
+E07000041	Exeter	10	842
+E07000042	Mid Devon	1	79
+E07000043	North Devon	1	199
+E07000044	South Hams	0	50
+E07000045	Teignbridge	0	134
+E07000046	Torridge	0	85
+E07000047	West Devon	36	108
+E07000048	Christchurch	2	72
+E07000049	East Dorset	0	18
+E07000050	North Dorset	0	30
+E07000051	Purbeck	1	58
+E07000052	West Dorset	0	33
+E07000053	Weymouth and Portland	1	253
+E07000061	Eastbourne	4	352
+E07000062	Hastings	2	231
+E07000063	Lewes	38	122
+E07000064	Rother	0	98
+E07000065	Wealden	1	130
+E07000066	Basildon	5	305
+E07000067	Braintree	1	117
+E07000068	Brentwood	19	452
+E07000069	Castle Point	0	81
+E07000070	Chelmsford	13	861
+E07000071	Colchester	179	845
+E07000072	Epping Forest	0	54
+E07000073	Harlow	2	190
+E07000074	Maldon	1	109
+E07000075	Rochford	32	48
+E07000076	Tendring	71	168
+E07000077	Uttlesford	1	172
+E07000078	Cheltenham	4	545
+E07000079	Cotswold	0	104
+E07000080	Forest of Dean	1	78
+E07000081	Gloucester	4	543
+E07000082	Stroud	3	148
+E07000083	Tewkesbury	0	153
+E07000084	Basingstoke and Deane	4	406
+E07000085	East Hampshire	1	52
+E07000086	Eastleigh	1	110
+E07000087	Fareham	0	239
+E07000088	Gosport	1	197
+E07000089	Hart	2	143
+E07000090	Havant	0	55
+E07000091	New Forest	0	39
+E07000092	Rushmoor	1	328
+E07000093	Test Valley	2	371
+E07000094	Winchester	1	240
+E07000095	Broxbourne	1	194
+E07000096	Dacorum	0	153
+E07000098	Hertsmere	0	83
+E07000099	North Hertfordshire	11	428
+E07000102	Three Rivers	1	85
+E07000103	Watford	1	298
+E07000105	Ashford	3	292
+E07000106	Canterbury	6	527
+E07000107	Dartford	2	151
+E07000108	Dover	155	421
+E07000109	Gravesham	0	177
+E07000110	Maidstone	0	206
+E07000111	Sevenoaks	0	83
+E07000112	Shepway	0	216
+E07000113	Swale	1	115
+E07000114	Thanet	179	463
+E07000115	Tonbridge and Malling	2	73
+E07000116	Tunbridge Wells	0	55
+E07000117	Burnley	2	420
+E07000118	Chorley	1	196
+E07000119	Fylde	0	31
+E07000120	Hyndburn	1	152
+E07000121	Lancaster	10	1110
+E07000122	Pendle	33	202
+E07000123	Preston	0	63
+E07000124	Ribble Valley	0	19
+E07000125	Rossendale	0	27
+E07000126	South Ribble	10	1122
+E07000127	West Lancashire	1	126
+E07000128	Wyre	0	9
+E07000129	Blaby	0	12
+E07000130	Charnwood	5	225
+E07000131	Harborough	0	25
+E07000132	Hinckley and Bosworth	1	122
+E07000133	Melton	0	9
+E07000134	North West Leicestershire	1	126
+E07000135	Oadby and Wigston	0	13
+E07000136	Boston	4	371
+E07000137	East Lindsey	1	374
+E07000138	Lincoln	10	752
+E07000139	North Kesteven	0	60
+E07000140	South Holland	1	57
+E07000141	South Kesteven	2	214
+E07000142	West Lindsey	0	2
+E07000143	Breckland	0	13
+E07000144	Broadland	0	9
+E07000145	Great Yarmouth	2	98
+E07000146	King's Lynn and West Norfolk	1	158
+E07000147	North Norfolk	1	67
+E07000148	Norwich	9	1708
+E07000149	South Norfolk	21	38
+E07000150	Corby	3	179
+E07000151	Daventry	0	53
+E07000152	East Northamptonshire	2	34
+E07000153	Kettering	54	188
+E07000154	Northampton	10	907
+E07000155	South Northamptonshire	0	16
+E07000156	Wellingborough	2	193
+E07000163	Craven	0	36
+E07000164	Hambleton	0	96
+E07000165	Harrogate	2	327
+E07000166	Richmondshire	9	32
+E07000167	Ryedale	0	27
+E07000168	Scarborough	5	329
+E07000169	Selby	1	221
+E07000170	Ashfield	0	27
+E07000171	Bassetlaw	1	223
+E07000172	Broxtowe	1	119
+E07000173	Gedling	0	47
+E07000174	Mansfield	0	195
+E07000175	Newark and Sherwood	1	33
+E07000176	Rushcliffe	0	24
+E07000177	Cherwell	3	273
+E07000178	Oxford	26	2098
+E07000179	South Oxfordshire	1	94
+E07000180	Vale of White Horse	1	68
+E07000181	West Oxfordshire	1	168
+E07000187	Mendip	1	360
+E07000188	Sedgemoor	0	86
+E07000189	South Somerset	1	152
+E07000190	Taunton Deane	3	247
+E07000191	West Somerset	0	80
+E07000192	Cannock Chase	1	416
+E07000193	East Staffordshire	0	30
+E07000194	Lichfield	4	222
+E07000195	Newcastle-under-Lyme	0	140
+E07000196	South Staffordshire	1	76
+E07000197	Stafford	2	383
+E07000198	Staffordshire Moorlands	0	132
+E07000199	Tamworth	4	315
+E07000200	Babergh	1	99
+E07000201	Forest Heath	1	42
+E07000202	Ipswich	40	995
+E07000203	Mid Suffolk	175	293
+E07000204	St Edmundsbury	0	74
+E07000205	Suffolk Coastal	1	81
+E07000206	Waveney	5	376
+E07000207	Elmbridge	1	109
+E07000208	Epsom and Ewell	3	185
+E07000209	Guildford	10	360
+E07000210	Mole Valley	0	33
+E07000211	Reigate and Banstead	2	150
+E07000212	Runnymede	1	98
+E07000213	Spelthorne	3	341
+E07000214	Surrey Heath	1	112
+E07000215	Tandridge	0	12
+E07000216	Waverley	0	74
+E07000217	Woking	0	241
+E07000218	North Warwickshire	0	30
+E07000219	Nuneaton and Bedworth	2	161
+E07000220	Rugby	0	222
+E07000221	Stratford-on-Avon	0	26
+E07000222	Warwick	0	239
+E07000223	Adur	0	10
+E07000224	Arun	0	86
+E07000225	Chichester	0	271
+E07000226	Crawley	3	304
+E07000227	Horsham	7	190
+E07000228	Mid Sussex	145	174
+E07000229	Worthing	10	365
+E07000234	Bromsgrove	2	182
+E07000235	Malvern Hills	1	580
+E07000236	Redditch	1	230
+E07000237	Worcester	4	881
+E07000238	Wychavon	37	87
+E07000239	Wyre Forest	3	140
+E07000240	St Albans	2	584
+E07000241	Welwyn Hatfield	0	199
+E07000242	East Hertfordshire	0	57
+E07000243	Stevenage	1	251
+E08000001	Bolton	13	1071
+E08000002	Bury	5	330
+E08000003	Manchester	104	10615
+E08000004	Oldham	3	362
+E08000005	Rochdale	2	291
+E08000006	Salford	4	478
+E08000007	Stockport	6	839
+E08000008	Tameside	3	188
+E08000009	Trafford	1	407
+E08000010	Wigan	4	761
+E08000011	Knowsley	1	89
+E08000012	Liverpool	39	4607
+E08000013	St. Helens	0	34
+E08000014	Sefton	4	218
+E08000015	Wirral	38	327
+E08000016	Barnsley	75	488
+E08000017	Doncaster	11	958
+E08000018	Rotherham	1	418
+E08000019	Sheffield	34	3276
+E08000021	Newcastle upon Tyne	39	4226
+E08000022	North Tyneside	0	303
+E08000023	South Tyneside	38	155
+E08000024	Sunderland	25	1870
+E08000025	Birmingham	38	4912
+E08000026	Coventry	7	1357
+E08000027	Dudley	11	384
+E08000028	Sandwell	1	143
+E08000029	Solihull	1	466
+E08000030	Walsall	1	528
+E08000031	Wolverhampton	3	748
+E08000032	Bradford	8	879
+E08000033	Calderdale	38	536
+E08000034	Kirklees	8	1341
+E08000035	Leeds	36	4638
+E08000036	Wakefield	5	954
+E08000037	Gateshead	3	466
+E09000001	City of London	4	1752
+E09000002	Barking and Dagenham	0	44
+E09000003	Barnet	1	146
+E09000004	Bexley	1	108
+E09000005	Brent	0	303
+E09000006	Bromley	36	106
+E09000007	Camden	3	489
+E09000008	Croydon	0	97
+E09000009	Ealing	279	43337
+E09000010	Enfield	0	50
+E09000011	Greenwich	0	74
+E09000012	Hackney	2	325
+E09000013	Hammersmith and Fulham	1	307
+E09000014	Haringey	0	125
+E09000015	Harrow	1	96
+E09000016	Havering	3	481
+E09000017	Hillingdon	1	89
+E09000018	Hounslow	0	112
+E09000019	Islington	1	382
+E09000020	Kensington and Chelsea	1	377
+E09000021	Kingston upon Thames	0	76
+E09000022	Lambeth	3	726
+E09000023	Lewisham	1	141
+E09000024	Merton	0	97
+E09000025	Newham	0	165
+E09000026	Redbridge	0	125
+E09000027	Richmond upon Thames	0	285
+E09000028	Southwark	0	144
+E09000029	Sutton	0	31
+E09000030	Tower Hamlets	2	300
+E09000031	Waltham Forest	0	140
+E09000032	Wandsworth	0	134
+E09000033	Westminster	16	3793
+S12000005	Clackmannanshire	3	442
+S12000006	Dumfries and Galloway	4	140
+S12000008	East Ayrshire	2	368
+S12000010	East Lothian	0	115
+S12000011	East Renfrewshire	0	327
+S12000013	Eilean Siar	39	211
+S12000014	Falkirk	5	449
+S12000015	Fife	7	668
+S12000017	Highland	4	548
+S12000018	Inverclyde	0	177
+S12000019	Midlothian	1	224
+S12000020	Moray	1	311
+S12000021	North Ayrshire	6	556
+S12000023	Orkney Islands	74	190
+S12000024	Perth and Kinross	0	52
+S12000026	Scottish Borders	3	267
+S12000027	Shetland Islands	0	117
+S12000028	South Ayrshire	18	1615
+S12000029	South Lanarkshire	0	124
+S12000030	Stirling	1	35
+S12000033	Aberdeen City	41	1341
+S12000034	Aberdeenshire	4	66
+S12000035	Argyll and Bute	0	79
+S12000036	City of Edinburgh	79	5786
+S12000038	Renfrewshire	2	492
+S12000039	West Dunbartonshire	0	77
+S12000040	West Lothian	1	188
+S12000041	Angus	0	117
+S12000042	Dundee City	44	1272
+S12000044	North Lanarkshire	7	458
+S12000045	East Dunbartonshire	0	56
+S12000046	Glasgow City	43	6595
+W06000001	Isle of Anglesey	106	2185
+W06000002	Gwynedd	2	103
+W06000003	Conwy	36	177
+W06000004	Denbighshire	0	20
+W06000005	Flintshire	14	225
+W06000006	Wrexham	3	436
+W06000008	Ceredigion	26	206
+W06000009	Pembrokeshire	74	728
+W06000010	Carmarthenshire	0	111
+W06000011	Swansea	9	1146
+W06000012	Neath Port Talbot	0	126
+W06000013	Bridgend	0	325
+W06000014	Vale of Glamorgan	0	42
+W06000015	Cardiff	40	3999
+W06000016	Rhondda Cynon Taf	1712	1828
+W06000018	Caerphilly	0	20
+W06000019	Blaenau Gwent	2	55
+W06000020	Torfaen	2	136
+W06000021	Monmouthshire	1	81
+W06000022	Newport	5	613
+W06000023	Powys	4	81
+W06000024	Merthyr Tydfil	18	167

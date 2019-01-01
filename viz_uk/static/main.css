@@ -1,0 +1,48 @@
+    #container-left {
+        float: left;
+        width: 820px;
+    }
+        
+    #container-right {
+        float: right;
+        width: 280px;
+    }
+        
+    #choroplethmap {
+        width: 800px;
+        height: 620px;
+        border: 1px solid #939393;
+    }
+        
+    #save-results {
+        border: 1px solid #41b6c4;
+        padding: 8px;
+        background-color: #def;
+        border-radius: 4px;
+        text-align: center;
+        margin: 10px;
+        cursor: pointer;
+    }
+        
+     #save-results:hover {
+        background-color: #b6cce2;
+     }
+        
+    #time-passed  {
+        border: none;
+        text-align: center;
+        margin: 10px; 
+    }
+
+    .infox {
+        padding: 6px 8px;
+        font: 14px/16px Arial, Helvetica, sans-serif;
+        background: white;
+        background: rgba(255,255,255,0.8);
+        box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        border-radius: 5px;
+    }
+    .infox h4 {
+        margin: 0 0 5px;
+        color: #777;
+    }
